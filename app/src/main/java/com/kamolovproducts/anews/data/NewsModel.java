@@ -128,8 +128,7 @@ public class NewsModel {
     public void setNewsPublishedDate(@NonNull Date newsPublishedDate) {
         this.newsPublishedDate = newsPublishedDate;
     }
-
-    //Added for Child JSON Object
+ 
     public static class Source {
         @SerializedName("name")
         private String sourceName;
