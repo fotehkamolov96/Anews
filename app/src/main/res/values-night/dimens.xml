@@ -1,0 +1,109 @@
+<resources>
+
+    <!-- TODO: Toolbar size -->
+    <dimen name="standard_toolbar42">42dp</dimen>
+    <dimen name="standard_toolbar52">52dp</dimen>
+    <dimen name="standard_toolbar54">54dp</dimen>
+    <dimen name="standard_toolbar56">56dp</dimen>
+    <dimen name="standard_toolbar58">58dp</dimen>
+    <dimen name="standard_toolbar60">60dp</dimen>
+    <dimen name="standard_toolbar32">32dp</dimen>
+    <dimen name="standard_toolbar34">34dp</dimen>
+    <dimen name="standard_toolbar36">36dp</dimen>
+    <dimen name="standard_toolbar38">38dp</dimen>
+    <dimen name="standard_toolbar40">40dp</dimen>
+    <dimen name="standard_toolbar46">46dp</dimen>
+
+
+    <!-- TODO: Layout margin all size -->
+    <dimen name="standard_margin2">2dp</dimen>
+    <dimen name="standard_margin4">4dp</dimen>
+    <dimen name="standard_margin6">6dp</dimen>
+    <dimen name="standard_margin8">8dp</dimen>
+    <dimen name="standard_margin10">10dp</dimen>
+    <dimen name="standard_margin12">12dp</dimen>
+    <dimen name="standard_margin14">14dp</dimen>
+    <dimen name="standard_margin16">16dp</dimen>
+    <dimen name="standard_margin18">18dp</dimen>
+    <dimen name="standard_margin20">20dp</dimen>
+    <dimen name="standard_margin22">22dp</dimen>
+    <dimen name="standard_margin24">24dp</dimen>
+    <dimen name="standard_margin26">26dp</dimen>
+    <dimen name="standard_margin28">28dp</dimen>
+    <dimen name="standard_margin30">30dp</dimen>
+    <dimen name="standard_margin40">40dp</dimen>
+
+    <!-- TODO: Card padding size -->
+    <dimen name="standard_card_width">220dp</dimen>
+    <dimen name="standard_card_height">200dp</dimen>
+    <dimen name="standard_card1_width">140dp</dimen>
+    <dimen name="standard_card1_height">170dp</dimen>
+    <dimen name="standard_card2_width">280dp</dimen>
+    <dimen name="standard_card2_height">160dp</dimen>
+    <dimen name="standard_card_padding2">2dp</dimen>
+    <dimen name="standard_card_padding4">4dp</dimen>
+    <dimen name="standard_card_padding5">5dp</dimen>
+    <dimen name="standard_card_padding6">6dp</dimen>
+    <dimen name="standard_card_padding8">8dp</dimen>
+    <dimen name="standard_card_padding10">10dp</dimen>
+    <dimen name="standard_card_padding12">12dp</dimen>
+    <dimen name="standard_card_padding14">14dp</dimen>
+    <dimen name="standard_card_padding16">16dp</dimen>
+    <dimen name="standard_card_padding18">18dp</dimen>
+    <dimen name="standard_card_padding20">20dp</dimen>
+    <dimen name="standard_card_padding22">22dp</dimen>
+    <dimen name="standard_card_padding24">24dp</dimen>
+    <dimen name="standard_card_padding26">26dp</dimen>
+    <dimen name="standard_card_radius4">4dp</dimen>
+    <dimen name="standard_card_radius6">6dp</dimen>
+    <dimen name="standard_card_radius8">8dp</dimen>
+    <dimen name="standard_card_radius10">10dp</dimen>
+    <dimen name="standard_card_radius12">12dp</dimen>
+    <dimen name="standard_card_radius14">14dp</dimen>
+
+    <!-- TODO: All Text size -->
+    <dimen name="item_text_size12">12sp</dimen>
+    <dimen name="item_text_size14">14sp</dimen>
+    <dimen name="item_text_size15">15sp</dimen>
+    <dimen name="item_text_size16">16sp</dimen>
+    <dimen name="item_text_size17">17sp</dimen>
+    <dimen name="item_text_size18">18sp</dimen>
+    <dimen name="item_text_size19">19sp</dimen>
+    <dimen name="item_text_size20">20sp</dimen>
+    <dimen name="item_text_size21">21sp</dimen>
+    <dimen name="item_text_size22">22sp</dimen>
+    <dimen name="item_text_size23">23sp</dimen>
+    <dimen name="item_text_size24">24sp</dimen>
+    <dimen name="item_text_size25">25sp</dimen>
+    <dimen name="item_text_size26">26sp</dimen>
+    <dimen name="item_text_size27">27sp</dimen>
+    <dimen name="item_text_size28">28sp</dimen>
+    <dimen name="item_text_size29">29sp</dimen>
+    <dimen name="item_text_size30">30sp</dimen>
+    <dimen name="text_letter_spacing2">0.02</dimen>
+    <dimen name="text_letter_spacing3">0.03</dimen>
+    <dimen name="text_letter_spacing4">0.04</dimen>
+    <dimen name="text_letter_spacing5">0.05</dimen>
+    <dimen name="text_letter_spacing6">0.06</dimen>
+    <dimen name="text_letter_spacing7">0.07</dimen>
+
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_xmiddle">12dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="dashboardNewsCategoryCardWidth">150dp</dimen>
+    <dimen name="dashboardNewsCategoryCardRadius">4dp</dimen>
+    <dimen name="dashboardNewsCategoryCardImageWidthHeight">35dp</dimen>
+    <dimen name="dashboardNewsCategoryCardImageMargin">5dp</dimen>
+</resources>

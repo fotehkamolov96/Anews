@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D2022</color>
+    <color name="colorPrimaryDark">#2F3239</color>
+
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorAction">#FFFFFF</color>
+    <color name="lightBlue">#4A4F5B</color>
+    <color name="lightBlueButton">#3E4662</color>
+    <color name="colorWeekSelected">#465991</color>
+
+    <color name="background">#1D2022</color>
+    <color name="card_background">#292D36</color>
+
+    <color name="transparent" />
+
+    <color name="colorTextBlue">#C9D4F0</color>
+    <color name="colorBlue">#6181E8</color>
+    <color name="colorDarkBlue">#4864BB</color>
+    <color name="colorBlueStroke">#C9D4F0</color>
+    <color name="colorBlueMenuSelection">#806181E8</color>
+
+    <color name="colorBlueUltralightStroke">#0D2760F1</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextAddiction">#616161</color>
+    <color name="inactive">#998B8893</color>
+    <color name="textBlack">#DEFFFFFF</color>
+    <color name="semiBlack">#8AFFFFFF</color>
+    <color name="greyInput">#34353E</color>
+    <color name="greyInputRipple">#1A1A22</color>
+    <color name="lightStroke">#1A63656C</color>
+    <color name="colorDivider">#403D4047</color>
+    <color name="ultralightStroke">#0863656C</color>
+    <color name="controls">#FFFFFF</color>
+
+    <color name="chipBackground">#4A4F5B</color>
+    <color name="chipText">#FFFFFF</color>
+
+    <color name="tabsBackground">#34353E</color>
+    <color name="tabTextInactive">#99FFFFFF</color>
+    <color name="tabsActive">#4A4F5B</color>
+</resources>

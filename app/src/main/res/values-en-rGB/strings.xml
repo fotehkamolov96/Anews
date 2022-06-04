@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANews</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="category_business">Business</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+    <string name="news">News</string>
+    <string name="news_dialog_info">Go to Website for more details.</string>
+    <string name="goto_website">Go to Website</string>
+    <string name="search_in_everything">Search in everything…</string>
+    <string name="title">HELLO I\'M 22BYTE-COMPANY</string>
+    <string name="description">Choosing an IT partner is hard, and it should be, because it also comes with a great deal of risk. Just think about it for a moment, what other vendor would have the type of access and responsibility that your IT partner would have? The decision process should be as extensive and serious as hiring a CFO for your business, it’s that big of a deal.</string>
+    <string name="item_title">Добрый день!</string>
+    <string name="imgdescription">contentDescription</string>
+    <string name="news_title">Новости</string>
+    <string name="category">Категории</string>
+</resources>
