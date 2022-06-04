@@ -35,7 +35,6 @@
   * [Compose Layouts](https://mvnrepository.com/artifact/androidx.compose.foundation/foundation-layout)
   * [ConstraintLayout Compose](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
   * [Paging Compose](https://developer.android.com/jetpack/androidx/releases/paging)
-  * [Compose tooling](https://developer.android.com/jetpack/compose/tooling)hilt-navigation-compose)
 * Retrofit2 & OkHttp3
   * [Converter: Gson](https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson)
   * [Retrofit](https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit)
